@@ -27,7 +27,7 @@ const ContactComponent = () => {
                 </button>
                 <button 
                   className="ui-btn 3/12 mt-4 phone:w-6/12"
-                  onClick={() => window.open("/resume.pdf", "_blank", "noopener,noreferrer")}
+                  onClick={() => window.open("/siongyu_resume.pdf", "_blank", "noopener,noreferrer")}
                 >
                   <span className="ml-2 phone:text-sm">
                       My Resume
